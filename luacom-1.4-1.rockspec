@@ -11,7 +11,7 @@ LuaCOM is an add-on library to the Lua language that allows Lua programs to use 
    homepage = "http://luaforge.net/projects/luacom/"
 }
 dependencies = {
-   "lua >= 5.1"
+
 }
 build = {
    platforms = {
